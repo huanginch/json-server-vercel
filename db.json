@@ -1,5 +1,13 @@
 {"users": [
     
   ],
-  "favorites": [],
+  "favorites": [
+      {"userId": "1", 
+       "products": [
+          {
+              "productId": "-nv452120"
+          },
+        ] 
+      }
+  ],
 }
