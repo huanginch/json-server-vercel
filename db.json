@@ -1,13 +1,20 @@
-{"users": [
-    
-  ],
-  "favorites": [
-      {"userId": "1", 
-       "products": [
-          {
-              "productId": "-nv452120"
-          },
-        ] 
-      }
-  ],
+{
+    "users": [],
+    "favorites": [
+        {
+            "userId": "1",
+            "products": {
+                "1": {
+                    "id": "1",
+                    "name": "Product 1",
+                    "productId": "1"
+                },
+                "2": {
+                    "id": "2",
+                    "name": "Product 2",
+                    "productId": "2"
+                }
+            }
+        }
+    ]
 }
